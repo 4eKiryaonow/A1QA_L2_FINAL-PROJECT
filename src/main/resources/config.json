@@ -1,0 +1,4 @@
+{
+  "urlUI": "http://%s:%s@<input host>:<input port>/web/",
+  "urlAPI" : "http://<input host>:<input port>/api/"
+}

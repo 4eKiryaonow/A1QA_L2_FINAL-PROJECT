@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Final task suite">
+    <test name="Comparing Test list and creation new project">
+        <classes>
+            <class name="ExamTaskTest"/>
+        </classes>
+    </test>
+</suite>
